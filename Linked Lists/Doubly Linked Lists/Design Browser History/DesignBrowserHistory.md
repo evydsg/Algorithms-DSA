@@ -1,7 +1,4 @@
 # 🧭 1472. Design Browser History
-
-**Difficulty:** Medium
-**Tags:** Linked List, Stack, Simulation
 **Leetcode Link:** [Leetcode 1472](https://leetcode.com/problems/design-browser-history/)
 
 ---
