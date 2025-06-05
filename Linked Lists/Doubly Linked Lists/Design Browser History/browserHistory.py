@@ -24,7 +24,7 @@ class BrowserHistory:
 
         while count < steps and self.current.prv:
             if count == steps:
-                return current.val
+                return self.current.val
             
             count += 1
             self.current = self.current.prv
