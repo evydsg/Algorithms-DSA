@@ -1,4 +1,3 @@
-
 # 📦 Dynamic Arrays
 
 Dynamic arrays are a more flexible alternative to static arrays. They grow automatically as new elements are added, making them especially useful in languages like **Python** and **JavaScript**, where they are the default array structure.
