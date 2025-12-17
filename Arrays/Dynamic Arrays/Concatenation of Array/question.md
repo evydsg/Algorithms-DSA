@@ -1,5 +1,3 @@
-
-
 # 🧩 Concatenation of Array
 
 You are given an integer array `nums` of length `n`. Create an array `ans` of length `2n` where:
