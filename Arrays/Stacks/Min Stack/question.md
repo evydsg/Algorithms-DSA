@@ -1,5 +1,4 @@
 # 🧱 Minimum Stack  
-**Solved** ✅  
 
 Design a stack class that supports the `push`, `pop`, `top`, and `getMin` operations.
 
