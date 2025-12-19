@@ -1,4 +1,3 @@
-
 # 🥞 Stacks – Data Structure
 
 A **stack** is a linear data structure that allows elements to be **added** or **removed** only from **one end** — called the **top**.
