@@ -2,7 +2,6 @@
 
 **Difficulty**: Easy  
 **Topics**: Arrays, Two Pointers  
-**Companies**: Common FAANG question
 
 ---
 
