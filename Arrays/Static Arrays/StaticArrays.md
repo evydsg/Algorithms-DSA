@@ -1,6 +1,4 @@
-
 # 📚 Static Arrays
-
 
 ## 📌 What is a Static Array?
 > - In **statically typed languages** (Java, C++, C#), arrays have a **fixed size and type** at initialization.
