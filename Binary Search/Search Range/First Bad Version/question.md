@@ -1,5 +1,4 @@
 # 278. First Bad Version
-
 ## 📘 Problem Statement
 
 You are a product manager and currently leading a team to develop a new product. Unfortunately, the latest version of your product fails the quality check.
@@ -32,17 +31,9 @@ isBadVersion(5) -> True
 isBadVersion(4) -> True
 
 
-Output:
-
-4
+Output: 4
 
 ### 🔹 Example 2
 
-Input:
-
-n = 1, bad = 1
-
-
-Output:
-
-1
+Input: n = 1, bad = 1
+Output: 1
