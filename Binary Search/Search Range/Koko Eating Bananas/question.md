@@ -1,5 +1,4 @@
 # Koko Eating Bananas
-
 You are given an integer array `piles` where `piles[i]` is the number of bananas in the *i-th* pile.  
 You are also given an integer `h`, which represents the number of hours you have to eat all the bananas.
 
