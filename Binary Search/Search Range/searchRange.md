@@ -1,5 +1,4 @@
 # Binary Search (Search Range)
-
 ## Concept
 Imagine you pick a number between 1 and 100 and ask your friend to guess the number you're thinking of. There are three possible outcomes for each guess:
 1. The guess is correct.
