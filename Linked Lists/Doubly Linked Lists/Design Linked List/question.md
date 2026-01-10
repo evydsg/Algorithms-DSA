@@ -1,8 +1,5 @@
 # 🧩 LeetCode 707. Design Linked List
-
-
 ---
-
 ## 📘 Description
 
 Design your implementation of a linked list.
