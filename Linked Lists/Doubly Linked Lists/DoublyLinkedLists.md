@@ -1,13 +1,9 @@
 # 📘 Doubly Linked Lists (DLL)
-
 A **Doubly Linked List** is a linear data structure where each node has **two pointers**:
 - `next` → points to the next node
 - `prev` → points to the previous node
-
 This allows **bidirectional traversal**, unlike singly linked lists.
-
 ---
-
 ## 🧩 Node Structure (Python)
 
 ```python
@@ -17,9 +13,7 @@ class ListNode:
         self.next = None
         self.prev = None
 ````
-
 ---
-
 ## 🔁 Common Operations
 
 ### 🔹 Insertion at the End
