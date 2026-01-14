@@ -1,18 +1,14 @@
 # 📦 Implement Stack Using Queues
-
 ## 📝 Problem Statement
-
 Design a **stack** using only **two queues**. The stack must support typical LIFO operations:
 
 ### Required Methods:
-
 * `push(x)` – Push element `x` to the top of the stack.
 * `pop()` – Removes and returns the element on the top of the stack.
 * `top()` – Returns the top element without removing it.
 * `empty()` – Returns `True` if the stack is empty, `False` otherwise.
 
 > Only standard **queue operations** are allowed:
-
 * `push to back`
 * `pop from front`
 * `peek at front`
@@ -22,9 +18,7 @@ Design a **stack** using only **two queues**. The stack must support typical LIF
 ---
 
 ## 🛠️ Approach
-
 We use **two queues**:
-
 * `q1`: Main queue to maintain the stack order.
 * `q2`: Temporary queue used during the `push` operation to reorder elements.
 

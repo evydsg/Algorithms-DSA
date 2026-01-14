@@ -1,12 +1,9 @@
 class MyStack:
-
     def __init__(self):
         self.queue = deque()
-        
 
     def push(self, x: int) -> None:
         self.queue.append(x)
-        
 
     def pop(self) -> int:
         for index in range(len(self.queue)-1):
@@ -14,17 +11,12 @@ class MyStack:
         
         return self.queue.popleft()
 
-        
-
     def top(self) -> int:
         return self.queue[-1]
         
-
     def empty(self) -> bool:
         return len(self.queue) == 0
         
-
-
 # Your MyStack object will be instantiated and called as such:
 # obj = MyStack()
 # obj.push(x)
