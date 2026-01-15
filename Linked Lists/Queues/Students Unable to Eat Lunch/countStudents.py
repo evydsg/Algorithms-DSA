@@ -5,7 +5,6 @@ class Solution:
         students = deque(students)
         sandwiches = deque(sandwiches)
         
-        
         while len(students) > 0:
             if students[0] == sandwiches[0]:
                 sandwiches.popleft()
