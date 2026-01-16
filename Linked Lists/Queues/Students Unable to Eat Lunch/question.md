@@ -1,9 +1,5 @@
 # 🥪 1700. Number of Students Unable to Eat Lunch
-
 **Link**: [Leetcode Problem #1700](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch)
-
----
-
 ## 🧠 Problem Summary
 
 In a school cafeteria:
