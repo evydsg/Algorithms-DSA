@@ -1,11 +1,9 @@
 # 📚 Linked Lists
-
 A **linked list** is a linear data structure where elements (nodes) are linked using pointers. It's similar to an array in storing ordered data, but differs in **memory allocation** and **operations**.
 
 ---
 
 ### 🔧 Basic Structure
-
 ```python
 class ListNode:
     def __init__(self, val):
@@ -39,7 +37,6 @@ class ListNode:
 ---
 
 ### 🔁 Traversal
-
 To loop through a linked list from start to end:
 
 ```python
@@ -54,7 +51,6 @@ while cur:
 ---
 
 ### ♻️ Circular Linked List
-
 If the last node points back to the head:
 
 ```python
@@ -67,9 +63,7 @@ node3.next = node1
 ---
 
 ## 🛠 Operations in a Singly Linked List
-
 ### 📌 Head & Tail
-
 * `head`: First node
 * `tail`: Last node
 * If only 1 node: `head == tail`
@@ -77,7 +71,6 @@ node3.next = node1
 ---
 
 ### ➕ Appending a Node
-
 ```python
 tail.next = new_node
 tail = new_node
@@ -89,7 +82,6 @@ tail = new_node
 ---
 
 ### ❌ Deleting a Node
-
 To delete the second node:
 
 ```python
@@ -102,7 +94,6 @@ head.next = head.next.next
 ---
 
 ### ⏱ Time Complexity Summary
-
 | Operation | Time Complexity | Note                                         |
 | --------- | --------------- | -------------------------------------------- |
 | Access    | O(n)            | Need to traverse to reach a node             |
