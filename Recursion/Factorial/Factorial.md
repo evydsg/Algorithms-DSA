@@ -3,7 +3,6 @@
 Recursion can be a tricky concept at first, so don’t worry if it doesn’t click right away. Let’s break it down.
 
 ## 📌 What Is Recursion?
-
 **Recursion** is when a function calls itself to solve smaller versions of a problem. A recursive function typically includes:
 
 1. **Base case** – The stopping condition.
@@ -14,7 +13,6 @@ Think of it like **a box inside a box inside another box**. The smallest box is 
 ---
 
 ## 🧠 One-Branch Recursion Example: Factorial
-
 To compute `n!` (n factorial), we multiply all integers from `n` down to `1`.
 
 **Mathematical formula:**
@@ -87,7 +85,6 @@ Once the base case is reached, the stack "unwinds" and each function call return
 ---
 
 ## 🔁 Iterative Version
-
 Recursion isn’t always necessary — many recursive problems can be solved iteratively.
 
 ```python
@@ -102,7 +99,6 @@ print(res)  # Output: 120
 ```
 
 ### 🧠 Iteration vs Recursion
-
 | Feature     | Recursion                    | Iteration                      |
 | ----------- | ---------------------------- | ------------------------------ |
 | Structure   | Function calls itself        | Uses loops                     |
@@ -113,7 +109,6 @@ print(res)  # Output: 120
 ---
 
 ## ✅ Key Takeaways
-
 * Every recursive function must have a **base case**.
 * Think of recursion as solving **sub-problems**, then combining the results.
 * **Stack overflow** occurs if a recursive function has no base case.
