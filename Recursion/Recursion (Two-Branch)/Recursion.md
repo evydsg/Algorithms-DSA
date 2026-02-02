@@ -1,11 +1,9 @@
 # 🌿 Recursion (Two-Branch)
-
 A more common case of recursion is **multi-branch recursion**, where a function makes more than one recursive call. A classic example is the **Fibonacci sequence**.
 
 ---
 
 ## 🧠 What is the Fibonacci Sequence?
-
 - A series of numbers where each number is the sum of the two preceding ones.
 - Starts with:  
   `0, 1, 1, 2, 3, 5, 8, 13, 21, 34, ...`
@@ -13,7 +11,6 @@ A more common case of recursion is **multi-branch recursion**, where a function 
 ---
 
 ## 🧾 Mathematical Definition
-
 - **Base cases**:
   - `F(0) = 0`  
   - `F(1) = 1`
@@ -23,7 +20,6 @@ A more common case of recursion is **multi-branch recursion**, where a function 
 ---
 
 ## 🧮 Recursive Formula (Recurrence Relation)
-
 ```python
 def fibonacci(n):
     if n <= 1:
@@ -73,7 +69,6 @@ To calculate `fibonacci(5)`:
 ---
 
 ## ✅ Key Takeaways
-
 * Two-branch recursion is **inefficient for large `n`** due to repeated calculations.
 * Can be optimized with **memoization** or **dynamic programming**.
 * Fibonacci is an excellent case for understanding recursive call trees and exponential time complexity.
