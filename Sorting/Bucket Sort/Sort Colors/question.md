@@ -1,7 +1,4 @@
 # Sort Colors
-
-**Solved**
-
 You are given an array `nums` consisting of `n` elements where each element is an integer representing a color:
 
 - `0` represents **red**
@@ -16,7 +13,6 @@ You must **not** use any built-in sorting functions to solve this problem.
 ---
 
 ## Example 1
-
 **Input:**
 ```python
 nums = [1,0,1,2]
@@ -31,7 +27,6 @@ nums = [1,0,1,2]
 ---
 
 ## Example 2
-
 **Input:**
 
 ```python
@@ -47,7 +42,6 @@ nums = [2,1,0]
 ---
 
 ## Constraints
-
 * `1 <= nums.length <= 300`
 * `0 <= nums[i] <= 2`
 
