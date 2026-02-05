@@ -1,11 +1,9 @@
 # Bucket Sort Algorithm
-
 Bucket Sort is a comparison-free sorting algorithm that divides an array into several buckets and then sorts these buckets individually. It is particularly useful when the input is uniformly distributed over a range.
 
 ---
 
 ## How Bucket Sort Works
-
 1. **Create Buckets**: Divide the range of input data into a fixed number of buckets.
 2. **Distribute Elements**: Place each element into the appropriate bucket based on its value.
 3. **Sort Individual Buckets**: Sort each bucket, usually using another sorting algorithm like Insertion Sort.
@@ -14,7 +12,6 @@ Bucket Sort is a comparison-free sorting algorithm that divides an array into se
 ---
 
 ## Steps of Bucket Sort
-
 1. **Initialization**:
    - Determine the number of buckets.
    - Create empty buckets.
@@ -35,7 +32,6 @@ Bucket Sort is a comparison-free sorting algorithm that divides an array into se
 ---
 
 ## Example of Bucket Sort
-
 ### Input
 ```text
 Array: [0.78, 0.17, 0.39, 0.26, 0.72, 0.94, 0.21, 0.12, 0.23, 0.68]
