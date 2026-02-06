@@ -1,5 +1,4 @@
 # Insertion Sort Overview
-
 Insertion Sort is a simple and intuitive sorting algorithm that builds the final sorted array one element at a time. It works by dividing the list into two parts: the sorted portion and the unsorted portion. Initially, the sorted portion contains just the first element.
 
 ## How It Works:
