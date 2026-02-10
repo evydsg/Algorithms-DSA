@@ -1,4 +1,3 @@
-
 # 🌳 Binary Search Trees (BST)
 
 ## 📌 Binary Trees vs Binary Search Trees
@@ -34,7 +33,6 @@
 
 ### Example Tree
 
-```
 
 ```
     2
@@ -44,7 +42,6 @@
         4
 ```
 
-````
 
 **Target = 3**
 
