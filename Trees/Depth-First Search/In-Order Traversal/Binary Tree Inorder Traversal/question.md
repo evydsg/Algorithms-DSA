@@ -1,10 +1,5 @@
 # 🌳 **94. Binary Tree Inorder Traversal**
 
-**Difficulty:** 🟢 Easy
-**Topics:** Binary Tree, Depth-First Search (DFS), Stack, Recursion
-**Companies:** 🏢 Common interview question (Google, Amazon, Microsoft, etc.)
-
----
 
 ## 🧠 **Problem Statement**
 
