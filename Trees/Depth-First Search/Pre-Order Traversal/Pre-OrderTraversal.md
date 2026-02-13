@@ -1,6 +1,6 @@
 ### 🧠 **Depth-First Search (Pre-Order Traversal)**
 
-### **Traversal Order**
+#### **Traversal Order**
 
 `root → left → right`
 
