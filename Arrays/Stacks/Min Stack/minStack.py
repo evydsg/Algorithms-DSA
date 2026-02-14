@@ -1,5 +1,4 @@
 class MinStack:
-
     def __init__(self):
         self.main_stack = []
         self.min_stack = []
