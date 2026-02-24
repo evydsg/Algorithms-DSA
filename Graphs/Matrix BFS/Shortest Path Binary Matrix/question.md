@@ -28,7 +28,7 @@ Output: -1
 - **All the adjacent cells of the path are 8-directionally connected (i.e., they are different and they share an edge or a corner).**
 
 
-** Constraints :**
+**Constraints:**
 - `1 <= grid.length == grid[i].length <= 100`
 
 - `grid[i][j]` is `0` or `1`.
