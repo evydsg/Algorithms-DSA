@@ -1,7 +1,5 @@
 # 📚 **DSA Course Overview**
 
-### 🔹 **TL;DR**
-
 This course covers most Data Structures & Algorithms (DSA) topics needed to succeed in technical interviews. It emphasizes efficient coding and tradeoff discussions. For more advanced content, refer to the **Advanced Algorithms** course.
 
 > ⚠️ Note: Excelling in coding interviews can significantly affect your job opportunities and compensation.
